@@ -6,8 +6,8 @@
   },
   "1.20.1": {
     "1.0.0": "Initial Release",
-    "1.0.1": "Fixed: Tall Spindlefern producing purple dye in Create compat\nFixed: Stripped Globar Log/Wood not being useable for Create's casings\nChanged: Globar Sap Bottle now sits upright Create's belts and depots",
-    "1.1.0": "Added: Programmer Art, alternate branch models: either completely flat/straight, or bumpy but without twigs\nFixed: Globar Branches on grown trees now always have the correct 'facing' value\nFixed: Amber and Amber Glass are now considered equal to their Glowing variants w.r.t. rendering\nChanged: Adjusted model weights in blockstates json\nChanged: Slightly improved performance of the branch model",
+    "1.0.1": "Changed: Globar Sap Bottle now sits upright Create's belts and depots\nFixed: Tall Spindlefern producing purple dye in Create compat\nFixed: Stripped Globar Log/Wood not being useable for Create's casings",
+    "1.1.0": "Added: Programmer Art, alternate branch models: either completely flat/straight, or bumpy but without twigs\nChanged: Adjusted model weights in blockstates json\nChanged: Slightly improved performance of the branch model\nFixed: Globar Branches on grown trees now always have the correct 'facing' value\nFixed: Amber and Amber Glass are now considered equal to their Glowing variants w.r.t. rendering",
     "1.1.1": "Fixed: Model overrides not working with ModernFix's dynamic_resources (you might need to reorder your resource packs if you had one of the programmer art packs enabled)",
     "1.1.2": "Fixed: Made brewing registry access thread-safe",
     "1.1.3": "Fixed: Made composting adding thread-safe",
