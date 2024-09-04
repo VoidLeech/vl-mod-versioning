@@ -1,0 +1,53 @@
+{
+  "comment": "Thanks for reading this. Paths are Roads isn't actually a mod, so this update.json is purely for fun. Also the changelogs won't fully reflect what's on CurseForge, Modrinth, or Github, as I don't repeat the features that are new to 2.1.0 here if that was the first version available for a Minecraft version.",
+  "homepage": "https://github.com/VoidLeech/Paths-Are-Roads",
+  "promos": {
+    "1.18.2-latest": "2.2.0",
+    "1.18.2-recommended": "2.2.0",
+    "1.19.2-latest": "2.2.0",
+    "1.19.2-recommended": "2.2.0",
+    "1.19.4-latest": "2.2.0",
+    "1.19.4-recommended": "2.2.0",
+    "1.20.1-latest": "2.2.0",
+    "1.20.1-recommended": "2.2.0",
+    "1.20.4-latest": "2.2.0",
+    "1.20.4-recommended": "2.2.0",
+    "1.20.6-latest": "2.2.0",
+    "1.20.6-recommended": "2.2.0",
+    "1.21.1-latest": "2.2.0",
+    "1.21.1-recommended": "2.2.0"
+  },
+  "1.18.2": {
+    "2.1.0": "Release for 1.18.2",
+    "2.2.0": "Added: Naturalist support\nAdded: Snow Pig support\nApi: added bool_issaddled entity type tag for IsSaddled entity nbt"
+  },
+  "1.19.2": {
+    "2.1.0": "Release for 1.19.2",
+    "2.2.0": "Added: Naturalist support\nAdded: Snow Pig support\nApi: added bool_issaddled entity type tag for IsSaddled entity nbt"
+  },
+  "1.19.4": {
+    "2.1.0": "Release for 1.19.4",
+    "2.2.0": "Api: added bool_issaddled entity type tag for IsSaddled entity nbt"
+  },
+  "1.20.1": {
+    "1.0.0": "Initial Release",
+    "1.0.1": "Added: Hellion's Sniffer+ support\nAdded: Duplicated block tag to item tags to allow for paths to be found in recipe viewers\nFixed: Aether's Flying Cow not being affected",
+    "2.0.0": "Added: Added path_user/{source} tags to allow for path_users to be found in recipe viewers\nAdded: Tags that place conditions on the entities to speed up\nChanged: Tags refactored and split, counts_as_path -> paths, path_user -> unconditional_user\nChanged: Performance improvements\nFixed: Alex's Mobs's Laviathan not being affected",
+    "2.0.1": "Added: Simple Kelpies support",
+    "2.0.2": "Fixed: path_user lookup for Simple Kelpies",
+    "2.1.0": "Added: path_markers tag (default: tripwire), can be placed to give a boost to any block as long as it's in the three blocks underneath the block you're standing on\nAdded: Undergarden Paths support\nAdded: Macaw's Paths and Pavings support\nApi: added bool_tamed entity type tag for Tamed entity nbt",
+    "2.2.0": "Added: Naturalist support\nAdded: Snow Pig support\nAdded: Roost Re-hatched support\nAdded: Ravage & Cabbage support\nAdded: RideableRavagers support\nAdded: RideablePolarBears support\nApi: added bool_issaddled entity type tag for IsSaddled entity nbt"
+  },
+  "1.20.4": {
+    "2.1.0": "Release for 1.20.4",
+    "2.2.0": "Api: added bool_issaddled entity type tag for IsSaddled entity nbt"
+  },
+  "1.20.6": {
+    "2.1.0": "Release for 1.20.6",
+    "2.2.0": "Added: Snow Pig support\nApi: added bool_issaddled entity type tag for IsSaddled entity nbt"
+  },
+  "1.21.1": {
+    "2.1.0": "Release for 1.20.6",
+    "2.2.0": "Added: Snow Pig support\nApi: added bool_issaddled entity type tag for IsSaddled entity nbt"
+  }
+}
