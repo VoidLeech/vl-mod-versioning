@@ -1,8 +1,8 @@
 {
   "homepage": "https://github.com/VoidLeech/SolidGlobarBranches",
   "promos": {
-    "1.20.1-latest": "1.2.0",
-    "1.20.1-recommended": "1.2.0"
+    "1.20.1-latest": "1.3.0",
+    "1.20.1-recommended": "1.3.0"
   },
   "1.20.1": {
     "1.0.0": "Initial Release",
@@ -11,6 +11,7 @@
     "1.1.1": "Fixed: Model overrides not working with ModernFix's dynamic_resources (you might need to reorder your resource packs if you had one of the programmer art packs enabled)",
     "1.1.2": "Fixed: Made brewing registry access thread-safe",
     "1.1.3": "Fixed: Made composting adding thread-safe",
-    "1.2.0": "Added: Sniffberry vines can now be bone-mealed, which allows them to grow beyond the random max height (you can also break and replant to get a new random max height)\nAdded: Sniffberry vines can now be trimmed (with shears) to prevent them from growing\nAdded: Sniffberries can now be harvested via right click\nChanged: Slight tweaks to the sniffberry vine growth pattern\nFixed: Porus Globar Logs with Globar Sap in them now have the Porus Globar Log as pick-block item"
+    "1.2.0": "Added: Sniffberry vines can now be bone-mealed, which allows them to grow beyond the random max height (you can also break and replant to get a new random max height)\nAdded: Sniffberry vines can now be trimmed (with shears) to prevent them from growing\nAdded: Sniffberries can now be harvested via right click\nChanged: Slight tweaks to the sniffberry vine growth pattern\nFixed: Porus Globar Logs with Globar Sap in them now have the Porus Globar Log as pick-block item",
+    "1.3.0": "Added: Update tracker url\nAdded: KleeSlabs support\nAdded: Seamless support\nAdded: Create: Vintage Improvements recipe compat\nChanged: Now depends on Oblivion\nChanged: Branches can now be placed on more blocks\nChanged: License\nRemoved: No longer ships MixinExtras\nChanged: Resized pack.png's and mod icon\nChanged: Made mixins abstract classes\nFixed: Several right-click interactions not working with the off-hand\nFixed: Sniffberry Vines can now grow in Cave Air\nFixed: Proper mixin prefixing"
   }
 }
