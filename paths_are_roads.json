@@ -55,6 +55,6 @@
   "1.21.1": {
     "2.1.0": "Release for 1.21",
     "2.2.0": "Added: Snow Pig support\nApi: added bool_issaddled entity type tag for IsSaddled entity nbt",
-    "2.3.0": "Changed: Upscaled pack.png\nChanged: License"
+    "2.3.0": "Added: Oh The Biomes We've Gone support\nChanged: Upscaled pack.png\nChanged: License"
   }
 }
