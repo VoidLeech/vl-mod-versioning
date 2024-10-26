@@ -1,11 +1,12 @@
 {
   "homepage": "https://github.com/VoidLeech/VoidedEnlightenment",
   "promos": {
-    "1.20.1-latest": "1.0.1",
-    "1.20.1-recommended": "1.0.1"
+    "1.20.1-latest": "1.1.0",
+    "1.20.1-recommended": "1.1.0"
   },
   "1.20.1": {
     "1.0.0": "Initial release",
-    "1.0.1": "Fixed: Update to Oblivion 1.1.0"
+    "1.0.1": "Fixed: Update to Oblivion 1.1.0",
+    "1.1.0": "Added: Create support:\n\tOoze Cauldrons can now be emptied via pump.\n\tOoze now has fluid interactions inside pipes.\nAdded: api methods so other mods can register their own ooze bottle world interactions.\nAdded: Dispensers can place Ooze Buckets, collect Ooze bottles and convert Mud to Chorloam\nAdded: Frost Walker gives level-based resistance to the cold from walking on Glacium/Frostburn Ice\nAdded: Ooze Cauldrons now give comparator output\nChanged: Now depends on Oblivion 2.0.0.\nChanged: Made all mixins abstract\nChanged: Bone meal can no longer grow Cerulean Stalk infinitely.\nFixed: Added a recipe to convert existing Adamantite Knives into a new Adamantite Knife that actually behaves like Farmer's Delight knives\nFixed: Ooze Fluid interaction inconsistencies.\nFixed: Xenon bomb not disappearing when not damaging the entity it hit (infinite flashbang)\nFixed: Cauldrons filled with other fluids being able to be filled by Ooze Rain\nFixed: Dripstone dripping significantly faster than in vanilla"
   }
 }
