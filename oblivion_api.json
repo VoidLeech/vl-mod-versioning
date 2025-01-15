@@ -1,13 +1,14 @@
 {
   "homepage": "https://github.com/VoidLeech/Oblivion",
   "promos": {
-    "1.20.1-latest": "2.0.0",
-    "1.20.1-recommended": "2.0.0"
+    "1.20.1-latest": "2.1.0",
+    "1.20.1-recommended": "2.1.0"
   },
   "1.20.1": {
-    "1.0.0": "Initial release",
-    "1.1.0": "Changed: Renamed incorrectly named AbstractObsidianPacks to AbstractOblivionPacks",
-    "1.2.0": "Added: Additional constructor for AbstractOblivionMixinPlugin to allow adding a prefix to all mixin names\nFixed: AbstractOblivionMixinPlugin is no longer package-private",
-    "2.0.0": "Added: methods that put certain block/item properties back to their defaults, such as undoing noCollission()\nRemoved: hackyMixinUtils package (PropertyRebuilders)"
+    "1.0.0": "Initial release.",
+    "1.1.0": "Changed: Renamed incorrectly named AbstractObsidianPacks to AbstractOblivionPacks.",
+    "1.2.0": "Added: Additional constructor for AbstractOblivionMixinPlugin to allow adding a prefix to all mixin names.\nFixed: AbstractOblivionMixinPlugin is no longer package-private.",
+    "2.0.0": "Added: methods that put certain block/item properties back to their defaults, such as undoing noCollission().\nRemoved: hackyMixinUtils package (PropertyRebuilders).",
+    "2.1.0": "Added: Mod-agnostic Sign Registration.\nAdded: Mod-agnostic Boat Registration.\nChanged: Deprecated AdvancementHelper.grantByName with String param, use the one with ResourceLocation instead (and cache it).\nChanged: License."
   }
 }
