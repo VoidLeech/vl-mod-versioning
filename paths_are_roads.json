@@ -23,19 +23,19 @@
     "2.1.0": "Release for 1.18.2.",
     "2.2.0": "Added: Naturalist support.\nAdded: Snow Pig support.\nAdded: added bool_issaddled entity type tag for IsSaddled entity nbt.",
     "2.3.0": "Changed: Upscaled pack.png.\nChanged: License.",
-    "3.0.0": "Added: Regions Unexplored support.\nAdded: Biomes You'll Go support.\nAdded: Method to add unique requirements without overriding function files (breaking).\nChanged: Moved around tags for easier maintenance/clarity (breaking).\nChanged: License.\nFixed: Embedded readme now points at wiki instead of non-embedded docs"
+    "3.0.0": "Added: Regions Unexplored support.\nAdded: Biomes You'll Go support.\nAdded: Method to add unique requirements without overriding function files (breaking).\nChanged: Moved around tags for easier maintenance/clarity (breaking).\nChanged: License.\nFixed: Embedded readme now points at wiki instead of non-embedded docs."
   },
   "1.19.2": {
     "2.1.0": "Release for 1.19.2.",
     "2.2.0": "Added: Naturalist support.\nAdded: Snow Pig support.\nAdded: added bool_issaddled entity type tag for IsSaddled entity nbt.",
     "2.3.0": "Changed: Upscaled pack.png.\nChanged: License.",
-    "3.0.0": "Added: Regions Unexplored support.\nAdded: Biomes You'll Go support.\nAdded: Environmental mob support.\nAdded: Method to add unique requirements without overriding function files (breaking).\nChanged: Moved around tags for easier maintenance/clarity (breaking).\nChanged: License.\nFixed: Embedded readme now points at wiki instead of non-embedded docs"
+    "3.0.0": "Added: Regions Unexplored support.\nAdded: Biomes You'll Go support.\nAdded: Environmental mob support.\nAdded: Method to add unique requirements without overriding function files (breaking).\nChanged: Moved around tags for easier maintenance/clarity (breaking).\nChanged: License.\nFixed: Embedded readme now points at wiki instead of non-embedded docs."
   },
   "1.19.4": {
     "2.1.0": "Release for 1.19.4.",
     "2.2.0": "Added: added bool_issaddled entity type tag for IsSaddled entity nbt.",
     "2.3.0": "Added: Goblin's Tyranny support.\nChanged: Upscaled pack.png.\nChanged: License.",
-    "2.4.0": "Added: Regions Unexplored support.\nAdded: Biomes You'll Go support.\nAdded: Method to add unique requirements without overriding function files (breaking).\nChanged: Moved around tags for easier maintenance/clarity (breaking).\nChanged: License.\nFixed: Embedded readme now points at wiki instead of non-embedded docs"
+    "2.4.0": "Added: Regions Unexplored support.\nAdded: Biomes You'll Go support.\nAdded: Method to add unique requirements without overriding function files (breaking).\nChanged: Moved around tags for easier maintenance/clarity (breaking).\nChanged: License.\nFixed: Embedded readme now points at wiki instead of non-embedded docs."
   },
   "1.20.1": {
     "1.0.0": "Initial Release.",
@@ -46,27 +46,27 @@
     "2.1.0": "Added: path_markers tag (default: tripwire), can be placed to give a boost to any block as long as it's in the three blocks underneath the block you're standing on.\nAdded: Undergarden Paths support.\nAdded: Macaw's Paths and Pavings support.\nAdded: added bool_tamed entity type tag for Tamed entity nbt.",
     "2.2.0": "Added: Naturalist support.\nAdded: Snow Pig support.\nAdded: Roost Re-hatched support.\nAdded: Ravage & Cabbage support.\nAdded: RideableRavagers support.\nAdded: RideablePolarBears support.\nAdded: added bool_issaddled entity type tag for IsSaddled entity nbt.",
     "2.3.0": "Added: Oh The Biomes We've Gone support.\nAdded: Call of Yucatán support.\nAdded: Jaden's Nether Expansion support.\nAdded: Goblin's Tyranny support.\nChanged: Upscaled pack.png.\nChanged: License.",
-    "3.0.0": "Added: Regions Unexplored support.\nAdded: Environmental support.\nAdded: Wan's Ancient Beasts support.\nAdded: Alex's Caves support.\nAdded: Method to add unique requirements without overriding function files (breaking).\nChanged: Moved around tags for easier maintenance/clarity (breaking).\nChanged: License.\nFixed: Embedded readme now points at wiki instead of non-embedded docs"
+    "3.0.0": "Added: Regions Unexplored support.\nAdded: Environmental support.\nAdded: Wan's Ancient Beasts support.\nAdded: Alex's Caves support.\nAdded: Pathed support\nAdded: Method to add unique requirements without overriding function files (breaking).\nChanged: Moved around tags for easier maintenance/clarity (breaking).\nChanged: License.\nFixed: Embedded readme now points at wiki instead of non-embedded docs."
   },
   "1.20.4": {
     "2.1.0": "Release for 1.20.4.",
     "2.2.0": "Added: added bool_issaddled entity type tag for IsSaddled entity nbt.",
     "2.3.0": "Changed: Upscaled pack.png.\nChanged: License.",
-    "2.4.0": "Added: Regions Unexplored support.\nAdded: Method to add unique requirements without overriding function files (breaking).\nChanged: Moved around tags for easier maintenance/clarity (breaking).\nChanged: License.\nFixed: Embedded readme now points at wiki instead of non-embedded docs"
+    "2.4.0": "Added: Regions Unexplored support.\nAdded: Method to add unique requirements without overriding function files (breaking).\nChanged: Moved around tags for easier maintenance/clarity (breaking).\nChanged: License.\nFixed: Embedded readme now points at wiki instead of non-embedded docs."
   },
   "1.20.6": {
     "2.1.0": "Release for 1.20.6.",
     "2.2.0": "Added: Snow Pig support.\nAdded: added bool_issaddled entity type tag for IsSaddled entity nbt.",
     "2.3.0": "Changed: Upscaled pack.png.\nChanged: License.",
-    "2.3.1": "Added: Method to add unique requirements without overriding function files (breaking).\nChanged: Moved around tags for easier maintenance/clarity (breaking).\nChanged: License.\nFixed: Embedded readme now points at wiki instead of non-embedded docs"
+    "2.3.1": "Added: Method to add unique requirements without overriding function files (breaking).\nChanged: Moved around tags for easier maintenance/clarity (breaking).\nChanged: License.\nFixed: Embedded readme now points at wiki instead of non-embedded docs."
   },
   "1.21.1": {
     "2.1.0": "Release for 1.21.1.",
     "2.2.0": "Added: Snow Pig support.\nAdded: added bool_issaddled entity type tag for IsSaddled entity nbt.",
     "2.3.0": "Added: Oh The Biomes We've Gone support.\nChanged: Upscaled pack.png.\nChanged: License.",
-    "3.0.0": "Added: Regions Unexplored support.\nAdded: Aether support.\nAdded: Deep Aether support.\nAdded: Macaw's Paths & Pavings support.\nAdded: Method to add unique requirements without overriding function files (breaking).\nChanged: Moved around tags for easier maintenance/clarity (breaking).\nChanged: License.\nFixed: Embedded readme now points at wiki instead of non-embedded docs"
+    "3.0.0": "Added: Regions Unexplored support.\nAdded: Aether support.\nAdded: Deep Aether support.\nAdded: Macaw's Paths & Pavings support.\nAdded: Pathed support\nAdded: Method to add unique requirements without overriding function files (breaking).\nChanged: Moved around tags for easier maintenance/clarity (breaking).\nChanged: License.\nFixed: Embedded readme now points at wiki instead of non-embedded docs."
   },
   "1.21.4": {
-    "2.3.1": "Release for 1.21.4"
+    "2.3.1": "Release for 1.21.4."
   }
 }
