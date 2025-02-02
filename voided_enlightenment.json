@@ -1,8 +1,8 @@
 {
   "homepage": "https://github.com/VoidLeech/VoidedEnlightenment",
   "promos": {
-    "1.20.1-latest": "1.2.2",
-    "1.20.1-recommended": "1.2.2"
+    "1.20.1-latest": "1.3.0",
+    "1.20.1-recommended": "1.3.0"
   },
   "1.20.1": {
     "1.0.0": "Initial release.",
@@ -10,6 +10,7 @@
     "1.1.0": "Added: Create support:\n\tOoze Cauldrons can now be emptied via pump.\n\tOoze now has fluid interactions inside pipes.\nAdded: api methods so other mods can register their own ooze bottle world interactions.\nAdded: Dispensers can place Ooze Buckets, collect Ooze bottles and convert Mud to Chorloam.\nAdded: Frost Walker gives level-based resistance to the cold from walking on Glacium/Frostburn Ice.\nAdded: Ooze Cauldrons now give comparator output.\nChanged: Now depends on Oblivion 2.0.0.\nChanged: Made all mixins abstract.\nChanged: Bone meal can no longer grow Cerulean Stalk infinitely.\nFixed: Added a recipe to convert existing Adamantite Knives into a new Adamantite Knife that actually behaves like Farmer's Delight knives.\nFixed: Ooze Fluid interaction inconsistencies.\nFixed: Xenon bomb not disappearing when not damaging the entity it hit (infinite flashbang).\nFixed: Cauldrons filled with other fluids being able to be filled by Ooze Rain.\nFixed: Dripstone dripping significantly faster than in vanilla.",
     "1.2.0": "Added: Create compat crushed ore items.\nAdded: Cerulean/Indigo Signs & Boats.\nChanged: Void Leviathan can now be enabled again via config.\nChanged: Added some modded biomes to the tags determining bismuth coloration (so they won't use the default of Verdant).\nChanged: Mod logo.\nChanged: Now depends on Oblivion 2.1.0.\nChanged: License.\nRemoved: Enlightend's Compatibility tab, since it is now useless.\nFixed: Fumesplats not dropping Splatter Glands.\nFixed: Cache advancement resource locations.",
     "1.2.1": "Fixed: Missing refmap.",
-    "1.2.2": "Fixed: Signs have no break particle texture"
+    "1.2.2": "Fixed: Signs have no break particle texture",
+    "1.3.0": "Changed: Bismuth glass now requires silk touch to break.\nChanged: Some stone-based blocks now require a pickaxe to break.\nFixed: 157 blocks now actually drops items if mined by complex modded tools such as those from Tetra or Silent Gear."
   }
 }
