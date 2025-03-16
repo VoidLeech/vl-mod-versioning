@@ -1,8 +1,8 @@
 {
   "homepage": "https://github.com/VoidLeech/Oblivion",
   "promos": {
-    "1.20.1-latest": "2.1.2",
-    "1.20.1-recommended": "2.1.2"
+    "1.20.1-latest": "3.0.0",
+    "1.20.1-recommended": "3.0.0"
   },
   "1.20.1": {
     "1.0.0": "Initial release.",
@@ -11,6 +11,7 @@
     "2.0.0": "Added: methods that put certain block/item properties back to their defaults, such as undoing noCollission().\nRemoved: hackyMixinUtils package (PropertyRebuilders).",
     "2.1.0": "Added: Mod-agnostic Sign Registration.\nAdded: Mod-agnostic Boat Registration.\nChanged: Deprecated AdvancementHelper.grantByName with String param, use the one with ResourceLocation instead (and cache it).\nChanged: License.",
     "2.1.1": "Fixed: Signs weren't ticking.",
-    "2.1.2": "Fixed: Wrong sign BET passed to supers of OblivionHangingSignBlockEntity."
+    "2.1.2": "Fixed: Wrong sign BET passed to supers of OblivionHangingSignBlockEntity.",
+    "3.0.0": "Added: Fabric support.\nAdded: Built-in packs now support data packs and non-required yet on-by-default packs.\nChanged: More control over when mixins should apply when using AbstractOblivionMixinPlugin.\nChanged: Built-in packs are now registered via `Registration#registerPacks`.\nChanged: Moved potion recipes, composting, and fuel times to `RecipeLikeProperties`.\nChanged: Moved property undoers to `extensions/property` package.\nChanged: OblivionBoatItem now extends BoatItem.\nChanged: Move away from as many accesstransformers as possible in favor of accessor/invoker mixins.\nFixed: Boats now drop the correct planks when breaking into planks & sticks."
   }
 }
